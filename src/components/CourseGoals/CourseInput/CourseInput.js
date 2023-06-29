@@ -26,7 +26,7 @@ const [isValid, setIsValid]=useState(true);
         <label style={{color:!isValid ? "red":"black"}}>Course Goal</label>
         <input type="text" style={{backgroundColor: !isValid ? "#ffabab":"#fad0ec", border: !isValid ? '1px solid red': '1px solid #ccc'}} onChange={goalInputChangeHandler} />
       </div>
-      <Button type="submit">Add Goal</Button>
+      <Button type="submit">Add Goals</Button>
     </form>
   );
 };
