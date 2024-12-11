@@ -45,8 +45,11 @@
 </details>
 
 ## Application view
-In progress...
+Default page view immediately after turning on the application:</br>
+<img src="https://github.com/user-attachments/assets/5ff96511-aaee-4ef8-be2d-51948edd989b"></br>
 
+Short demo:</br>
+<img src="https://github.com/user-attachments/assets/26d618a3-bb8b-403b-aadf-805a83f5e2a6">
 ## Sources
 This project is based on a project from the <b>React - The Complete Guide 2024 (incl. Next.js, Redux)</b> course from Udemy.com
 
